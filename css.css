@@ -9,7 +9,15 @@ a ,a:hover {
 	text-decoration: none;
     box-sizing: border-box;
 }
-
+.i{
+display: block;
+    margin: auto;
+    width: 100%;
+    max-width: 800px;
+    height: 450px;
+    border: none;
+    border-radius: 8px;
+}
 .topbar{
 	display: flex;
 	align-items: center;
